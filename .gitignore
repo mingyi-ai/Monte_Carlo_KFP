@@ -1,0 +1,18 @@
+# Generated experiment data and media
+*.csv
+*.gif
+*.mp4
+*.png
+*.svg
+*.html
+!square_boundary.png
+
+# Local tooling and platform files
+dev/Manifest.toml
+node_modules/
+.DS_Store
+
+# pi agent project-memory artifacts
+.pi/
+MEMORY.md
+ISSUES.md

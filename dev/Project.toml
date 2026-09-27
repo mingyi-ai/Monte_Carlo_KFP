@@ -1,0 +1,8 @@
+[deps]
+JuliaFormatter = "98e50ef6-434e-11e9-1051-2b60c6c9e899"
+LintApp = "0ca8a2e7-ee8a-47e9-8624-e03a53d93e73"
+
+[compat]
+JuliaFormatter = "=2.14.0"
+LintApp = "=1.0.2"
+julia = "1.13"
